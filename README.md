@@ -1,0 +1,2 @@
+SampleIsKindOfClass
+===================
